@@ -9,7 +9,10 @@
 | Fernkauf | <ul><li>- [x] completed</li><li>- [ ] todo</li></ul>| |  |  |  |  |  |  
 
 <table>
-    <tr>
-        <td><input type="checkbox"/>Pass</td>
-    </tr>
+<tr>
+<th>Table</th>
+</tr>
+<tr><td><ul>
+<li>[ ] Task in table</li>
+</td></tr>
 </table>
