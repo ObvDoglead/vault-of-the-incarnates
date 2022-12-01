@@ -10,6 +10,6 @@
 
 <table>
     <tr>
-        <td>Foo</td>
+        <td><input type="checkbox" checked /> works</td>
     </tr>
 </table>
