@@ -7,3 +7,5 @@
 | Raider         | Eranog | Terros | Council | Sennarth | Dathea | Kurog | Diurna | Raszageth |
 |----------------|--------|--------|---------|----------|--------|-------|--------|-----------|
 | Fernkauf | <ul><li>- [x] completed</li><li>- [ ] todo</li></ul>| |  |  |  |  |  |  
+
+<input type="checkbox" name="name1" />
