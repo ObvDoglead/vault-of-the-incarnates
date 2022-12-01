@@ -8,4 +8,8 @@
 |----------------|--------|--------|---------|----------|--------|-------|--------|-----------|
 | Fernkauf | <ul><li>- [x] completed</li><li>- [ ] todo</li></ul>| |  |  |  |  |  |  
 
-<input type="checkbox" name="name1" />
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
