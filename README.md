@@ -4,6 +4,6 @@
 
 | Raider         | Eranog | Terros | Council | Sennarth | Dathea | Kurog | Diurna | Raszageth |
 |----------------|--------|--------|---------|----------|--------|-------|--------|-----------|
-| Fernkauf | &#9744; | &#9744; | &#9744; | &#9744;  | &#9744;  | &#9744;  | &#9744;  | &#9744;  | 
+| Fernkauf | <input type="checkbox" disabled checked /> | <input type="checkbox" disabled checked /> | <input type="checkbox" disabled checked /> | <input type="checkbox" disabled checked />  | <input type="checkbox" disabled checked />  | <input type="checkbox" disabled checked />  | <input type="checkbox" disabled checked />  | <input type="checkbox" disabled checked />  | 
 
 
