@@ -1,18 +1,16 @@
 # Vault of the Incarnates
 
-- [x] wtf
+## Boss Tactics
 
-## Kader XX.XX.XXXX
+- [Eranog](1_eranog.md)
+- [Terros](2_terros.md)
+- [Council](2_council.md)
+- [Dathea](3_dathea.md)
+- [Sennarth](3_sennarth.md)
+- [Kurog](4_kurog.md)
+- [Diurna](5_diurna.md)
+- [Raszagath](6_raszageth.md)
 
-| Raider         | Eranog | Terros | Council | Sennarth | Dathea | Kurog | Diurna | Raszageth |
-|----------------|--------|--------|---------|----------|--------|-------|--------|-----------|
-| Fernkauf | <ul><li>- [x] completed</li><li>- [ ] todo</li></ul>| |  |  |  |  |  |  
+## Weakaura-Packs
 
-<table>
-<tr>
-<th>Table</th>
-</tr>
-<tr><td><ul>
-<li>[ ] Task in table</li>
-</td></tr>
-</table>
+- [Causese All Bosses](https://wago.io/dfraid1)
