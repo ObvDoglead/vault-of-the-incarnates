@@ -10,7 +10,7 @@
 
 1. Adds spawnen wie im Bild und durch den Boss kiten
 
-![How to adds](/images/eranog.png)
+![How to adds](/images/1_eranog.png)
 
 2. Boss weiter ziehen im Uhrzeigersinn, Platz für neuen Add-Spawn (2x pro Phase)
 3. Intermission: äußeres Add, dann inneres
