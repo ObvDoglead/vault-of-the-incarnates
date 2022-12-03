@@ -15,6 +15,10 @@
 2. Boss weiter ziehen im Uhrzeigersinn, Platz für neuen Add-Spawn (2x pro Phase)
 3. Intermission: äußeres Add, dann inneres
 
+## WA
+
+Interrupt-WA Pyro
+
 ## Raidplan (kein Mehrwert)
 
 [Raidplan](https://raidplan.io/plan/BdQ9eFFr-9BNeWqf)
