@@ -15,6 +15,10 @@
 
 ![Raidplan](/images/terros.png)
 
+## WA
+
+Awakened Earth -> Wer wo im Rock-Blast aufstellen
+
 ## Raidplan (kein Mehrwert)
 
 [Raidplan](https://raidplan.io/plan/07Snbskb5OH1kZ3b)
