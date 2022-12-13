@@ -16,5 +16,5 @@
 ## Weakaura-Packs
 
 - [Causese All Bosses](https://wago.io/dfraid1)
-- [Seraaks WA Service](https://wago.io/2TlTys64z)
+- [Seraaks WA OneStopShop (alle WAs die man so braucht)](https://wago.io/2TlTys64z) 
 - [Dungeon WAs Naowh by Seraak](https://wago.io/BF0UswL54)
