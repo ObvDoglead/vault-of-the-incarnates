@@ -2,6 +2,8 @@
 
 [Kader](https://github.com/users/ObvDoglead/projects/2)
 
+[Heal-Sheet](https://docs.google.com/spreadsheets/d/1F75N4aejF-47LfMbOrzAS0NDh2MdKMP1rK8o7UIWFHU)
+
 ## Boss Tactics
 
 - [Eranog](1_eranog.md)
