@@ -7,7 +7,7 @@
 
 ## Raidplan
 
-[Tactic](https://raidplan.io/plan/9mFCx614mgbLJkIB)
+![Tactic](/images/4_kurog.png)
 
 
 ## WA
