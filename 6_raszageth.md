@@ -32,7 +32,7 @@ Mitnehmen wer kann: [Int1 Eng Boots](https://www.wowhead.com/item=172912/momentu
 
 **12** Seraak, Diantha
 
-### CCs coming soon
+### CCs
 
 #### **1**
 #1 Brakai, Mass Dispel
