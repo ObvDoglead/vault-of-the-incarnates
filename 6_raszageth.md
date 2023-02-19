@@ -31,4 +31,5 @@
 ## Int1
 
 Blue: Fernkauf, Kiyuma, Drarra, Yilvina, Sirih, Shadownnay, Zadskiel, Bixes, Hotixx, Diantha, Smile
+
 Red: Brakai, Wurzelfurzel, Ragejessi, Groot, Kiarra, Seraakwl, Kraganrg, Nelthorias, Rakizz
