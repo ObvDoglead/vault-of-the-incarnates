@@ -28,6 +28,9 @@
 
 **12** Seraak, Diantha
 
+### CCs coming soon
+
+
 ## Int1
 
 Blue: Fernkauf, Kiyuma, Drarra, Yilvina, Sirih, Shadownnay, Zadskiel, Bixes, Hotixx, Diantha, Smile
