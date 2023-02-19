@@ -18,7 +18,7 @@ Mitnehmen wer kann: [Int1 Eng Boots](https://www.wowhead.com/item=172912/momentu
 
 **5** Yama, Kraganrg
 
-**6** Drarra, Nelthorias
+**6** Flashi, Nelthorias
 
 **7** Zadskiel
 
