@@ -36,17 +36,23 @@ Mitnehmen wer kann: [Int1 Eng Boots](https://www.wowhead.com/item=172912/momentu
 
 **1**
 #1 Brakai, Mass Dispel
+
 #2 Chaos Nova, Mass Dispel
+
 #3 Brakai, Mass Dispel
 
 **2**
 #1 Brakai, Mass Dispel
+
 #2 Grippy Hands, Mass Dispel
+
 #3 Brakai, Mass Dispel
 
 **3**
 #1 Brakai, Mass-Dispel, Grippy-Hands
+
 #2 Chaos Nova, Mass Dispel
+
 #3 Brakai, Mass Dispel
 
 **4**
