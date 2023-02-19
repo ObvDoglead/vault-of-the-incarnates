@@ -1,5 +1,9 @@
 # Razagath
 
+## Secret Tech 
+
+Mitnehmen wer kann: [Int1 Eng Boots](https://www.wowhead.com/item=172912/momentum-redistributor-boots)
+
 ## P1
 
 ![P1](/images/raziP1.png)
