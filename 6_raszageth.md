@@ -28,7 +28,7 @@ Mitnehmen wer kann: [Int1 Eng Boots](https://www.wowhead.com/item=172912/momentu
 
 **10** Shadownnay
 
-**11** Wurzel, Kiarra
+**11** Wurzel, Nico
 
 **12** Seraak, Diantha
 
