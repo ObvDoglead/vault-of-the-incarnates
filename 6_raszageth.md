@@ -10,15 +10,15 @@ Mitnehmen wer kann: [Int1 Eng Boots](https://www.wowhead.com/item=172912/momentu
 
 **1** Fernkauf, Brakai
 
-**2** Kiyuma, Smile
+**2** Kiyuma, Yama
 
 **3** Groot, Rakizz
 
 **4** Bixes
 
-**5** Flashi, Kraganrg
+**5** Ragejessi, Kraganrg
 
-**6** Ragejessi, Nelthorias
+**6** Drarra, Nelthorias
 
 **7** Zadskiel
 
@@ -28,67 +28,20 @@ Mitnehmen wer kann: [Int1 Eng Boots](https://www.wowhead.com/item=172912/momentu
 
 **10** Shadownnay
 
-**11** Wurzel, Nico
+**11** Wurzel, Kiarra
 
 **12** Seraak, Diantha
 
 ### CCs coming soon
 
-#### **1**
-#1 Brakai, Mass Dispel
 
-#2 Chaos Nova, Mass Dispel
-
-#3 Brakai, Mass Dispel
-
-#### **2**
-#1 Brakai, Mass Dispel
-
-#2 Grippy Hands, Mass Dispel
-
-#3 Brakai, Mass Dispel
-
-##### **3**
-#1 Brakai, Mass-Dispel, Grippy-Hands
-
-#2 Chaos Nova, Mass Dispel
-
-#3 Brakai, Mass Dispel
-
-#### **4**
-Mass-Dispel, Stun-Totem, purge spam?
-
-#### **5**
-Mass-Dispel, Stun-Totem, purge spam? all
-
-#### **6**
-Groot all
-
-#### **7**
-Groot all
-
-#### **8**
-Mass-Dispel, Stun-Totem, purge spam? all
-
-#### **9**
-Wurzel, 2x Nico all
-
-#### **10**
-Wurzel, 2x Nico all
-Groot all
-
-#### **11**
-Wurzel, 2x Nico all
-
-#### **12**
-Trap, 2x Seraak all
-
+### 2
 
 ## Int1
 
-Blue: Fernkauf, Kiyuma, Drarra, Yilvina, Sirih, Shadownnay, Zadskiel, Bixes, Hotixx, Diantha, Smile
+Blue: Fernkauf, Kiyuma, Flashi, Yilvina, Sirih, Shadownnay, Bixes, Hotixx, Diantha, Yama, Nico
 
-Red: Brakai, Wurzelfurzel, Ragejessi, Groot, Kiarra, Seraakwl, Kraganrg, Nelthorias, Rakizz
+Red: Brakai, Wurzelfurzel, Ragejessi, Groot, Seraakwl, Kraganrg, Nelthorias, Rakizz, Zadskiel
 
 ## P2
 
@@ -140,7 +93,7 @@ wie P1
 
 **18** Ragejessi
 
-**19** Smile
+**19** Yama
 
 **20** Bix
 
