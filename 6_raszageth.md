@@ -88,7 +88,7 @@ wie P1
 
 ## P2 Stormsurges
 
-[Liquid Strat](/images/6_p2stormsurge.png)
+![Liquid Strat](/images/6_p2stormsurge.png)
 
 
 ## WA
