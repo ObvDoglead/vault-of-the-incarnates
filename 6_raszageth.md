@@ -34,53 +34,53 @@ Mitnehmen wer kann: [Int1 Eng Boots](https://www.wowhead.com/item=172912/momentu
 
 ### CCs coming soon
 
-**1**
+#### **1**
 #1 Brakai, Mass Dispel
 
 #2 Chaos Nova, Mass Dispel
 
 #3 Brakai, Mass Dispel
 
-**2**
+#### **2**
 #1 Brakai, Mass Dispel
 
 #2 Grippy Hands, Mass Dispel
 
 #3 Brakai, Mass Dispel
 
-**3**
+##### **3**
 #1 Brakai, Mass-Dispel, Grippy-Hands
 
 #2 Chaos Nova, Mass Dispel
 
 #3 Brakai, Mass Dispel
 
-**4**
+#### **4**
 Mass-Dispel, Stun-Totem, purge spam?
 
-**5**
+#### **5**
 Mass-Dispel, Stun-Totem, purge spam? all
 
-**6**
+#### **6**
 Groot all
 
-**7**
+#### **7**
 Groot all
 
-**8**
+#### **8**
 Mass-Dispel, Stun-Totem, purge spam? all
 
-**9**
+#### **9**
 Wurzel, 2x Nico all
 
-**10**
+#### **10**
 Wurzel, 2x Nico all
 Groot all
 
-**11**
+#### **11**
 Wurzel, 2x Nico all
 
-**12**
+#### **12**
 Trap, 2x Seraak all
 
 
