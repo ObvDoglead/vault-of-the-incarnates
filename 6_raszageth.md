@@ -18,19 +18,19 @@ Mitnehmen wer kann: [Int1 Eng Boots](https://www.wowhead.com/item=172912/momentu
 
 **5** Yama, Kraganrg
 
-**6** Flashi, Nelthorias
+**6** Flashi, Sirih
 
 **7** Zadskiel
 
 **8** Yilvina
 
-**9** Hotixx, Sirih
+**9** Hotixx, Seraak
 
 **10** Shadownnay
 
 **11** Wurzel, Nico
 
-**12** Seraak, Diantha
+**12** Nelthorias, Diantha
 
 ### CCs
 
