@@ -44,7 +44,7 @@ wie P1
 
 ### Wings P2 +(P3) might get rotated(?)
 
-**"But Chris, i can chesse with X" "Dont care, in case you fettfinger kuss kuss"**
+**"But Chris, i can cheese with X" "Dont care, in case you fettfinger kuss kuss"**
 
 ![P2_Wings](/images/6_p2wings.png)
 
