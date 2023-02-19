@@ -85,3 +85,14 @@ wie P1
 **19** Smile
 
 **20** Bix
+
+## P2 Stormsurges
+
+[Liquid Strat](/images/6_p2stormsurge.png)
+
+
+## WA
+
+[Liquid Pack](https://wago.io/LiquidVault)
+
+[Liquid CD Reminder](https://wago.io/cDPzpjk7w)
