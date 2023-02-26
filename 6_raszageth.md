@@ -25,9 +25,9 @@ Mitnehmen wer kann: [Int1 Eng Boots](https://www.wowhead.com/item=172912/momentu
 
 ## Int1
 
-Blue: Fernkauf, Kiyuma, Flashi, Drarra, Sirih, Shadownnay, Bixes, Kiarra, Diantha, Yama, Nico
+Blue: Fernkauf, Wurzelfurzel, Kiyuma, Drarra, Sirih, Shadownnay, Bixes, Kiarra, Diantha, Yama, Nico
 
-Red: Brakai, Wurzelfurzel, Ragejessi, Groot, Seraakwl, Kraganrg, Gromskale, Smildh, Zadskiel
+Red: Brakai, Flashi, Ragejessi, Groot, Seraakwl, Kraganrg, Gromskale, Smildh, Zadskiel
 
 ## P2
 
