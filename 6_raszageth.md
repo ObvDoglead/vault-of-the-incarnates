@@ -31,13 +31,13 @@ Red: Brakai, Wurzelfurzel, Ragejessi, Groot, Seraakwl, Kraganrg, Gromskale, Smil
 
 ## P2
 
-### Sparks
+### Sparks -> needs to be rotated
 
 ![P2_Sparks](/images/6_p2sparks.png)
 
 wie P1
 
-### Wings P2 +(P3) might get rotated(?)
+### Wings P2 +(P3)
 
 **"But Chris, i can cheese with X" "Dont care, in case you fettfinger :)"**
 
