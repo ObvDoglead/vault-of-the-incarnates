@@ -23,17 +23,15 @@ Mitnehmen wer kann: [Int1 Eng Boots](https://www.wowhead.com/item=172912/momentu
 | 11 | Wurzel, Nico     | Roar | Nico Stun | Nico Howl |
 | 12 | Diantha, Kiarra  | Trap | Kiarra Stun | Kiarra Howl |
 
-### 2
-
 ## Int1
 
-Blue: Fernkauf, Kiyuma, Flashi, Yilvina, Sirih, Shadownnay, Bixes, Hotixx, Diantha, Yama, Nico
+Blue: Fernkauf, Kiyuma, Flashi, Drarra, Sirih, Shadownnay, Bixes, Kiarra, Diantha, Yama, Nico
 
-Red: Brakai, Wurzelfurzel, Ragejessi, Groot, Seraakwl, Kraganrg, Nelthorias, Rakizz, Zadskiel
+Red: Brakai, Wurzelfurzel, Ragejessi, Groot, Seraakwl, Kraganrg, Gromskale, Smildh, Zadskiel
 
 ## P2
 
-### Sparks might get rotated(?)
+### Sparks
 
 ![P2_Sparks](/images/6_p2sparks.png)
 
@@ -45,45 +43,28 @@ wie P1
 
 ![P2_Wings](/images/6_p2wings.png)
 
-**1** Brakai
-
-**2** Fernkauf
-
-**3** Groot
-
-**4** Rakizz
-
-**5** Drarra
-
-**6** Nelthorias
-
-**7** Zadskiel
-
-**8** Shadownnay
-
-**9** Sirih
-
-**10** Hotti
-
-**11** Diantha
-
-**12** Seraakwl
-
-**13** Kiarra
-
-**14** Wurzel
-
-**15** Yilvina
-
-**16** Kiyuma
-
-**17** Kraganrg
-
-**18** Ragejessi
-
-**19** Yama
-
-**20** Bix
+| Position    | Spieler |
+| ----------- | ----------- |
+| 1 | Brakai |
+| 2 | Fernkauf |
+| 3 | Groot |
+| 4 | Smile |
+| 5 | Drarra |
+| 6 | Gromskale |
+| 7 | Zadskiel |
+| 8 | Shadownnay |
+| 9 | Sirih |
+| 10 | Flashi |
+| 11 | Diantha |
+| 12 | Seraakwl |
+| 13 | Kiarra |
+| 14 | Wurzel |
+| 15 | Nico |
+| 16 | Kiyuma |
+| 17 | Kraganrg |
+| 18 | Ragejessi |
+| 19 | Yama |
+| 20 | Bix |
 
 ## P2 Stormsurges
 
