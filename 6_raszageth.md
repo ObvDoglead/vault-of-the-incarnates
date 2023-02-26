@@ -41,7 +41,7 @@ wie P1
 
 **"But Chris, i can cheese with X" "Dont care, in case you fettfinger :)"**
 
-![P2_Wings](/images/6_p2wings.png)
+![P2_Wings](/images/6_p2wingsv2.png)
 
 | Position    | Spieler |
 | ----------- | ----------- |
