@@ -10,69 +10,18 @@ Mitnehmen wer kann: [Int1 Eng Boots](https://www.wowhead.com/item=172912/momentu
 
 | Position    | Spieler | CC#1 | CC#2 | CC#3 |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1  | Fernkauf, Brakai | #1 Brakai Shout / #2 Chaos Nova #3 Shout | Mass Dispel | ? |
+| 1  | Fernkauf, Brakai | #1 Brakai Shout #2 Chaos Nova #3 Shout | Mass Dispel | ? |
 | 2  | Kiyuma, Ragejessi| #1 Brakai Shout #2 Grippy Hands #3 Shout | Mass Dispel | ? |
-| 3  | Groot, Smiledh   | 
-| 4  | Bixesdkh         |
-| 5  | Yama, Kragan     |
-| 6  | Flashi, Sirih    |
-| 7  | Zadskiel         |
-| 8  | Drarra           |
-| 9  | Hotixx, Seraak   |
-| 10 | Shadownnay       |
-| 11 | Wurzel, Nico     |
-| 12 | Diantha, Kiarra  |
-
-### CCs
-
-#### **1**
-#1 Brakai, Mass Dispel
-
-#2 Chaos Nova, Mass Dispel
-
-#3 Brakai, Mass Dispel
-
-#### **2**
-#1 Brakai, Mass Dispel
-
-#2 Grippy Hands, Mass Dispel
-
-#3 Brakai, Mass Dispel
-
-##### **3**
-#1 Brakai, Mass-Dispel, Grippy-Hands
-
-#2 Chaos Nova, Mass Dispel
-
-#3 Brakai, Mass Dispel
-
-#### **4**
-Mass-Dispel, Stun-Totem, purge spam?
-
-#### **5**
-Mass-Dispel, Stun-Totem, purge spam? all
-
-#### **6**
-Groot all
-
-#### **7**
-Groot all
-
-#### **8**
-Mass-Dispel, Stun-Totem, purge spam? all
-
-#### **9**
-Wurzel, 2x Nico all
-
-#### **10**
-Wurzel, 2x Nico all
-Groot all
-
-#### **11**
-Wurzel, 2x Nico all
-
-#### **12**
-Trap, 2x Seraak all
+| 3  | Groot, Smiledh   | #1 Brakai Shout #2 Chaos Nova #3 Shout | Mass Dispel | RoP |
+| 4  | Bixesdkh         | #1 Stun Totem #2 Stun Totem #3 Stun Totem | Bix | ? |
+| 5  | Yama, Kragan     | Trap | Seraak Stun | Seraak Howl |
+| 6  | Flashi, Sirih    | RoP | RoP | Roar |
+| 7  | Zadskiel         | RoP | RoP | Roar |
+| 8  | Drarra           | Roar | Nico Stun | Nico Howl |
+| 9  | Gromskale, Seraak| ? | Seraak Stun | Seraak Howl |
+| 10 | Shadownnay       | ? | Kiarra Stun | Kiarra Howl |
+| 11 | Wurzel, Nico     | Roar | Nico Stun | Nico Howl |
+| 12 | Diantha, Kiarra  | Trap | Kiarra Stun | Kiarra Howl |
 
 ### 2
 
