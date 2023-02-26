@@ -20,8 +20,8 @@ Mitnehmen wer kann: [Int1 Eng Boots](https://www.wowhead.com/item=172912/momentu
 | 8  | Drarra           | Roar | Nico Stun | Nico Howl |
 | 9  | Gromskale, Seraak| Roar | Seraak Stun | Seraak Howl |
 | 10 | Shadownnay       | Roar | Kiarra Stun | Kiarra Howl |
-| 11 | Wurzel, Nico     | Roar | Nico Stun | Nico Howl |
-| 12 | Diantha, Kiarra  | Trap | Kiarra Stun | Kiarra Howl |
+| 11 | Wurzel, Kiarra     | Roar | Nico Stun | Nico Howl |
+| 12 | Diantha, Nelthorias  | Trap | Kiarra Stun | Kiarra Howl |
 
 ## Int1
 
