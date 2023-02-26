@@ -8,29 +8,20 @@ Mitnehmen wer kann: [Int1 Eng Boots](https://www.wowhead.com/item=172912/momentu
 
 ![P1](/images/raziP1.png)
 
-**1** Fernkauf, Brakai
-
-**2** Kiyuma, Ragejessi
-
-**3** Groot, Rakizz
-
-**4** Bixes
-
-**5** Yama, Kraganrg
-
-**6** Flashi, Sirih
-
-**7** Zadskiel
-
-**8** Yilvina
-
-**9** Hotixx, Seraak
-
-**10** Shadownnay
-
-**11** Wurzel, Nico
-
-**12** Nelthorias, Diantha
+| Position    | Spieler | CC#1 | CC#2 | CC#3 |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1  | Fernkauf, Brakai | #1 Brakai Shout / #2 Chaos Nova #3 Shout | Mass Dispel | ? |
+| 2  | Kiyuma, Ragejessi| #1 Brakai Shout #2 Grippy Hands #3 Shout | Mass Dispel | ? |
+| 3  | Groot, Smiledh   | 
+| 4  | Bixesdkh         |
+| 5  | Yama, Kragan     |
+| 6  | Flashi, Sirih    |
+| 7  | Zadskiel         |
+| 8  | Drarra           |
+| 9  | Hotixx, Seraak   |
+| 10 | Shadownnay       |
+| 11 | Wurzel, Nico     |
+| 12 | Diantha, Kiarra  |
 
 ### CCs
 
