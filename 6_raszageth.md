@@ -29,6 +29,13 @@ Blue: Fernkauf, Wurzelfurzel, Yilvina, Drarra, Sirih, Shadownnay, Bixes, Kiarra,
 
 Red: Brakai, Flashi, Ragejessi, Groot, Seraakwl, Kraganrg, Seraakwl, Smildh, Zadskiel
 
+```
+liquidStart3
+red |cffc69b6dBrakai|r |cffc69b6dRagejessi|r |cff0070ddFlashibashi|r |cff00ff98Grootwalker|r Seraak |cfffff468Kraganrg|r |cfff48cbaNelthorias|r |cffa330c9Smiledh|r |cffff7c0aZadskiel|r 
+blue |cffc41e3aFernkauf|r Yilvina |cffff7c0aWurzelfurzel|r |cff33937fDrarra|r  |cffff7c0aSîrih|r |cffffffffShadownnay|r |cffc41e3aBixesdkh|r |cff8788eeKîarra|r |cffaad372Diânthâ|r Rakizz |cff8788eeSeraakwl|r  
+liquidEnd3
+```
+
 ## P2
 
 ### Sparks -> needs to be rotated
@@ -70,6 +77,14 @@ wie P1
 
 ![Liquid Strat](/images/6_p2stormsurge.png)
 
+```
+liquidStart2
+{circle} Groot Bix Seraakwl Flashi Sirih
+{moon} Nelthorias Kragan Zadskiel Wurzel Hotti
+{square} Fernkauf Brakai Diantha Kiarra Rakizz
+{skull} Smile Ragejessi Drarra Yilvina Shadownnay
+liquidEnd2
+```
 
 ## WA
 
