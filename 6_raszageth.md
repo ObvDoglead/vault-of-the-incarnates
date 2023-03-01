@@ -13,7 +13,7 @@ Mitnehmen wer kann: [Int1 Eng Boots](https://www.wowhead.com/item=172912/momentu
 | 1  | Fernkauf, Brakai | #1 Brakai Shout #2 Chaos Nova #3 Shout | Mass Dispel (Shadow) | ? |
 | 2  | Drarra, Ragejessi| #1 Brakai Shout #2 Grippy Hands #3 Shout | Mass Dispel (Shadow)| ? |
 | 3  | Groot, Smiledh   | #1 Brakai Shout #2 Chaos Nova #3 Shout | Mass Dispel (Shadow)| RoP |
-| 4  | Bixesdkh         | #1 Stun Totem #2 Stun Totem #3 Stun Totem | Bix | ? |
+| 4  | Bixesdkh         | Mass Dispel (Yilvina) | Bix | ? |
 | 5  | Rakizz, Kragan     | Mass Dispel (Yilvina) | Seraak Stun | Seraak Howl |
 | 6  | Flashi, Sirih    | RoP | RoP | Roar (Sirih) |
 | 7  | Zadskiel         | RoP | RoP | Roar (Zadskiel) |
