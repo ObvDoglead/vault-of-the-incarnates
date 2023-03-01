@@ -47,24 +47,24 @@ wie P1
 | ----------- | ----------- |
 | 1 | Brakai |
 | 2 | Fernkauf |
-| 3 | Groot |
+| 3 | Diantha |
 | 4 | Smile |
 | 5 | Drarra |
 | 6 | Yilvina |
-| 7 | Zadskiel |
+| 7 | Ragejessi|
 | 8 | Shadownnay |
 | 9 | Sirih |
 | 10 | Flashi |
-| 11 | Diantha |
+| 11 | Groot |
 | 12 | Seraakwl |
-| 13 | Kiarra |
+| 13 | Bix |
 | 14 | Wurzel |
 | 15 | Hotti |
 | 16 | Nelthorias |
 | 17 | Kraganrg |
-| 18 | Ragejessi |
+| 18 | Zadskiel |
 | 19 | Rakizz |
-| 20 | Bix |
+| 20 | Kiarra |
 
 ## P2 Stormsurges
 
