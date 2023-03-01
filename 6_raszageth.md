@@ -50,7 +50,7 @@ wie P1
 | 3 | Groot |
 | 4 | Smile |
 | 5 | Drarra |
-| 6 | Gromskale |
+| 6 | Yilvina |
 | 7 | Zadskiel |
 | 8 | Shadownnay |
 | 9 | Sirih |
@@ -59,11 +59,11 @@ wie P1
 | 12 | Seraakwl |
 | 13 | Kiarra |
 | 14 | Wurzel |
-| 15 | Nico |
-| 16 | Kiyuma |
+| 15 | Hotti |
+| 16 | Nelthorias |
 | 17 | Kraganrg |
 | 18 | Ragejessi |
-| 19 | Yama |
+| 19 | Rakizz |
 | 20 | Bix |
 
 ## P2 Stormsurges
