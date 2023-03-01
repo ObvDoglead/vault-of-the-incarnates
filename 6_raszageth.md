@@ -10,17 +10,17 @@ Mitnehmen wer kann: [Int1 Eng Boots](https://www.wowhead.com/item=172912/momentu
 
 | Position    | Spieler | CC#1 | CC#2 | CC#3 |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1  | Fernkauf, Brakai | #1 Brakai Shout #2 Chaos Nova #3 Shout | Mass Dispel | ? |
-| 2  | Kiyuma, Ragejessi| #1 Brakai Shout #2 Grippy Hands #3 Shout | Mass Dispel | ? |
-| 3  | Groot, Smiledh   | #1 Brakai Shout #2 Chaos Nova #3 Shout | Mass Dispel | RoP |
+| 1  | Fernkauf, Brakai | #1 Brakai Shout #2 Chaos Nova #3 Shout | Mass Dispel (Shadow) | ? |
+| 2  | Drarra, Ragejessi| #1 Brakai Shout #2 Grippy Hands #3 Shout | Mass Dispel (Shadow)| ? |
+| 3  | Groot, Smiledh   | #1 Brakai Shout #2 Chaos Nova #3 Shout | Mass Dispel (Shadow)| RoP |
 | 4  | Bixesdkh         | #1 Stun Totem #2 Stun Totem #3 Stun Totem | Bix | ? |
-| 5  | Yama, Kragan     | Trap | Seraak Stun | Seraak Howl |
-| 6  | Flashi, Sirih    | RoP | RoP | Roar |
-| 7  | Zadskiel         | RoP | RoP | Roar |
-| 8  | Drarra           | Roar | Nico Stun | Nico Howl |
-| 9  | Gromskale, Seraak| Roar | Seraak Stun | Seraak Howl |
-| 10 | Shadownnay       | Roar | Kiarra Stun | Kiarra Howl |
-| 11 | Wurzel, Kiarra     | Roar | Nico Stun | Nico Howl |
+| 5  | Rakizz, Kragan     | Mass Dispel (Yilvina) | Seraak Stun | Seraak Howl |
+| 6  | Flashi, Sirih    | RoP | RoP | Roar (Sirih) |
+| 7  | Zadskiel         | RoP | RoP | Roar (Zadskiel) |
+| 8  | Yilvina           | Mass Dispel (Yilvina) | Roar(Sirih) | Purge Spam |
+| 9  | Hotti, Seraak | Ice Nova | Seraak Stun | Seraak Howl |
+| 10 | Shadownnay       | Ice Nova | Seraak Stun | Seraak Howl |
+| 11 | Wurzel, Kiarra     | Roar (Wurzel) | Kiarra Stun | Kiarra Howl |
 | 12 | Diantha, Nelthorias  | Trap | Kiarra Stun | Kiarra Howl |
 
 ## Int1
