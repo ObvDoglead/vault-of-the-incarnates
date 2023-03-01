@@ -34,6 +34,15 @@ liquidStart3
 red |cffc69b6dBrakai|r |cffc69b6dRagejessi|r |cff0070ddFlashibashi|r |cff00ff98Grootwalker|r Seraak |cfffff468Kraganrg|r |cfff48cbaNelthorias|r |cffa330c9Smiledh|r |cffff7c0aZadskiel|r 
 blue |cffc41e3aFernkauf|r Yilvina |cffff7c0aWurzelfurzel|r |cff33937fDrarra|r  |cffff7c0aSîrih|r |cffffffffShadownnay|r |cffc41e3aBixesdkh|r |cff8788eeKîarra|r |cffaad372Diânthâ|r Rakizz |cff8788eeSeraakwl|r  
 liquidEnd3
+
+startLine
+{skull} 385553 |cffc69b6dRagejessi|r |cfffff468Kraganrg|r 
+{cross} 385553 |cff00ff98Grootwalker|r |cfff48cbaNelthorias|r 
+{square} 385553 |cffa330c9Smiledh|r |cffff7c0aZadskiel|r 
+{moon} 385553 |cffc41e3aFernkauf|r |cffc41e3aBixesdkh|r 
+{triangle} 385553 Rakizz 
+{diamond} 385553 |cffaad372Diânthâ|r |cffffffffShadownnay|r 
+endLine
 ```
 
 ## P2
