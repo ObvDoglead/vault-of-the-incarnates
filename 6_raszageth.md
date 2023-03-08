@@ -27,7 +27,7 @@ Mitnehmen wer kann: [Int1 Eng Boots](https://www.wowhead.com/item=172912/momentu
 
 Blue: Fernkauf, Wurzelfurzel, Yilvina, Drarra, Sirih, Shadownnay, Bixes, Kiarra, Diantha, Hotti, Rakizz 
 
-Red: Brakai, Flashi, Ragejessi, Groot, Seraakwl, Kraganrg, Seraakwl, Smildh, Zadskiel
+Red: Brakai, Flashi, Ragejessi, Gromskale, Seraakwl, Kraganrg, Seraakwl, Smildh, Zadskiel
 
 ```
 liquidStart3
@@ -71,7 +71,7 @@ wie P1
 | 8 | Shadownnay |
 | 9 | Sirih |
 | 10 | Flashi |
-| 11 | Groot |
+| 11 | Gromskale |
 | 12 | Seraakwl |
 | 13 | Bix |
 | 14 | Wurzel |
@@ -88,7 +88,7 @@ wie P1
 
 ```
 liquidStart2
-{circle} Groot Bix Seraakwl Flashi Sirih
+{circle} Gromskale Bix Seraakwl Flashi Sirih
 {moon} Nelthorias Kragan Zadskiel Wurzel Hotti
 {square} Fernkauf Brakai Diantha Kiarra Rakizz
 {skull} Smile Ragejessi Drarra Yilvina Shadownnay
