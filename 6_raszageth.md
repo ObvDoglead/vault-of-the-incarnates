@@ -12,12 +12,12 @@ Mitnehmen wer kann: [Int1 Eng Boots](https://www.wowhead.com/item=172912/momentu
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1  | Fernkauf, Brakai | #1 Brakai Shout #2 Chaos Nova #3 Shout | Mass Dispel (Shadow) | ? |
 | 2  | Drarra, Ragejessi| #1 Brakai Shout #2 Grippy Hands #3 Shout | Mass Dispel (Shadow)| ? |
-| 3  | Groot, Smiledh   | #1 Brakai Shout #2 Chaos Nova #3 Shout | Mass Dispel (Shadow)| RoP |
+| 3  | Gromskale, Smiledh   | #1 Brakai Shout #2 Chaos Nova #3 Shout | Mass Dispel (Shadow)| RoP |
 | 4  | Bixesdkh         | Mass Dispel (Yilvina) | Bix | ? |
 | 5  | Rakizz, Kragan     | Mass Dispel (Yilvina) | Seraak Stun | Seraak Howl |
-| 6  | Flashi, Sirih    | RoP | RoP | Roar (Sirih) |
-| 7  | Zadskiel         | RoP | RoP | Roar (Zadskiel) |
-| 8  | Yilvina           | Mass Dispel (Yilvina) | Roar(Sirih) | Purge Spam |
+| 6  | Flashi, Sirih    | ? | Roar (Sirih) | Roar (Sirih) |
+| 7  | Zadskiel         | ? | Roar (Zadskiel) | Roar (Zadskiel) |
+| 8  | Yilvina           | Mass Dispel (Yilvina) | Ice Nova | Purge Spam |
 | 9  | Hotti, Seraak | Ice Nova | Seraak Stun | Seraak Howl |
 | 10 | Shadownnay       | Ice Nova | Seraak Stun | Seraak Howl |
 | 11 | Wurzel, Kiarra     | Roar (Wurzel) | Kiarra Stun | Kiarra Howl |
