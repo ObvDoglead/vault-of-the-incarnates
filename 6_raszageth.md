@@ -49,8 +49,6 @@ endLine
 
 ### Sparks -> needs to be rotated
 
-![P2_Sparks](/images/6_p2sparks.png)
-
 wie P1
 
 ### Wings P2 +(P3)
@@ -84,7 +82,7 @@ wie P1
 
 ## P2 Stormsurges
 
-![Liquid Strat](/images/6_p2stormsurge.png)
+![Liquid Strat](/images/P2_Stormsurge.png)
 
 ```
 liquidStart2
@@ -94,6 +92,21 @@ liquidStart2
 {skull} Smile Ragejessi Drarra Yilvina Shadownnay
 liquidEnd2
 ```
+
+## Int2
+
+### Vor Breath 1
+![1](/images/Int2_1.png)
+
+### Vor Breath 2
+![2](/images/Int2_2.png)
+
+### Vor Breath 3
+![3](/images/Int2_3.png)
+
+### Finish up
+![4](/images/Int2_4.png)
+
 
 ## WA
 
