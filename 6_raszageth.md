@@ -137,7 +137,7 @@ liquidEnd2
 
 1. Pull-Charge to Purple
 2. Fulminating Charge
-3. WL-Gate bzw. Roar and Run
+3. WL-Gate bzw. Windrush and run
 
 ### Magnetic Charge 2+4+5
 
