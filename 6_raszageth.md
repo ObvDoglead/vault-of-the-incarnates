@@ -47,7 +47,7 @@ endLine
 
 ## P2
 
-### Sparks -> needs to be rotated
+### Sparks
 
 wie P1
 
@@ -86,10 +86,10 @@ wie P1
 
 ```
 liquidStart2
-{circle} Gromskale Bix Seraakwl Flashi Sirih
-{moon} Nelthorias Kragan Zadskiel Wurzel Hotti
-{square} Fernkauf Brakai Diantha Kiarra Rakizz
-{skull} Smile Ragejessi Drarra Yilvina Shadownnay
+{circle} Smile Bix Kiarra Flashi Sirih
+{moon} Nelthorias Zadskiel Wurzel Hotti Gromskale
+{square} Fernkauf Brakai Diantha Ragejessi Drarra
+{skull} Seraakwl Rakizz Kragan Yilvina Shadownnay
 liquidEnd2
 ```
 
