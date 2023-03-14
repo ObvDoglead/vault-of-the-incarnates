@@ -129,6 +129,22 @@ liquidEnd2
 ![4](/images/Int2_4.png)
 
 
+## P3
+
+![P3](/images/P3.png)
+
+### Magnetic Charge 1+3
+
+1. Pull-Charge to Purple
+2. Fulminating Charge
+3. WL-Gate bzw. Roar and Run
+
+### Magnetic Charge 2+4+5
+
+1. Pull-Charge middle
+2. Spread to P2 Wing-Positions
+3. Wings
+
 ## WA
 
 [Liquid Pack](https://wago.io/LiquidVault)
