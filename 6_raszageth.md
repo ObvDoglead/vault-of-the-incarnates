@@ -101,6 +101,10 @@ wie P1
 | 19 | Wurzel |
 | 20 | Ragejessi |
 
+## P2 Sparks
+
+![Sparks P2](/images/P2_sparks.png)
+
 ## P2 Stormsurges
 
 ![Liquid Strat](/images/P2_Stormsurge.png)
