@@ -68,10 +68,6 @@ endLine
 
 ## P2
 
-### Sparks
-
-wie P1
-
 ### Wings P2 +(P3)
 
 **"But Chris, i can cheese with X" "Dont care, in case you fettfinger :)"**
