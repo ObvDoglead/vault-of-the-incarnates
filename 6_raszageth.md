@@ -12,20 +12,20 @@ Mitnehmen wer kann: [Int1 Eng Boots](https://www.wowhead.com/item=172912/momentu
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1  | Fernkauf, Brakai | #1 Brakai Shout #2 Chaos Nova #3 Shout | Mass Dispel (Shadow) | ? |
 | 2  | Drarra, Ragejessi| #1 Brakai Shout #2 Grippy Hands #3 Shout | Mass Dispel (Shadow)| ? |
-| 3  | Gromskale, Smiledh   | #1 Brakai Shout #2 Chaos Nova #3 Shout | Mass Dispel (Shadow)| RoP |
+| 3  | Kragan, Smiledh   | #1 Brakai Shout #2 Chaos Nova #3 Shout | Mass Dispel (Shadow)| RoP |
 | 4  | Bixesdkh         | Mass Dispel (Yilvina) | Bix | ? |
-| 5  | Rakizz, Kragan     | Mass Dispel (Yilvina) | Seraak Stun | Seraak Howl |
+| 5  | Rakizz, Kiarra     | Mass Dispel (Yilvina) | Seraak Stun | Seraak Howl |
 | 6  | Flashi, Sirih    | ? | Roar (Sirih) | Roar (Sirih) |
 | 7  | Zadskiel         | ? | Roar (Zadskiel) | Roar (Zadskiel) |
 | 8  | Yilvina           | Mass Dispel (Yilvina) | Ice Nova | Purge Spam |
 | 9  | Hotti, Seraak | Ice Nova | Seraak Stun | Seraak Howl |
 | 10 | Shadownnay       | Ice Nova | Seraak Stun | Seraak Howl |
-| 11 | Wurzel, Kiarra     | Roar (Wurzel) | Kiarra Stun | Kiarra Howl |
+| 11 | Wurzel, Shadowdeathx     | Roar (Wurzel) | Kiarra Stun | Kiarra Howl |
 | 12 | Diantha, Nelthorias  | Trap | Kiarra Stun | Kiarra Howl |
 
 ## Int1
 
-Red: Fernkauf, Flashi, Ragejessi, Gromskale, Smiledh, Zadskiel, Kiarra, Sirih, Nelthorias
+Red: Fernkauf, Flashi, Ragejessi, Kiarra, Smiledh, Zadskiel, Shadowdeathx, Sirih, Nelthorias
 
 Blue: Brakai, Wurzelfurzel, Yilvina, Drarra, Shadownnay, Bixes, Diantha, Hotti, Rakizz, Seraakwl, Kraganrg
 
@@ -37,10 +37,10 @@ liquidEnd3
 
 liquidStart
 |cffa330c9Smiledh|r
-|cffc69b6dGromskale|r 
+|cff8788eeKîarra|r
 |cffff7c0aZadskiel|r 
 |cffffffffShadownnay|r 
-|cff8788eeKîarra|r 
+|cff8788eeShadowdeathx|r 
 |cfff48cbaNelthorias|r 
 |cffaad372Diânthâ|r  
 |cff0070ddFlashibashi|r 
@@ -58,7 +58,7 @@ liquidEnd
 
 startLine
 {skull} 385553 |cffc69b6dRagejessi|r |cffc41e3aFernkauf|r
-{cross} 385553 |cffc69b6dGromskale|r |cfff48cbaNelthorias|r 
+{cross} 385553 |cfff48cbaNelthorias|r |cff8788eeKîarra|r
 {square} 385553 |cffa330c9Smiledh|r |cffff7c0aZadskiel|r 
 {moon} 385553 |cffc69b6dBrakai|r |cffc41e3aBixesdkh|r 
 {triangle} 385553 |cffa330c9Rakizz|r |cff8788eeSeraakwl|r 
@@ -86,13 +86,13 @@ endLine
 | 8 | Shadownnay |
 | 9 | Kraganrg |
 | 10 | Sîrih |
-| 11 | Kîarra |
+| 11 | Shadowdeathx |
 | 12 | Bixesdkh |
 | 13 | Smiledh |
 | 14 | Flashi |
 | 15 | Hotti |
 | 16 | Nelthorias |
-| 17 | Gromskale |
+| 17 | Kiarra |
 | 18 | Zadskiel |
 | 19 | Wurzel |
 | 20 | Ragejessi |
@@ -107,8 +107,8 @@ endLine
 
 ```
 liquidStart2
-{circle} |cffa330c9Smiledh|r  |cffc41e3aBixesdkh|r |cff0070ddFlashibashi|r |cffff7c0aSîrih|r |cff8788eeKîarra|r
-{moon} |cfff48cbaNelthorias|r |cffff7c0aWurzelfurzel|r |cff3fc7ebHôttixx|r |cffff7c0aZadskiel|r |cffc69b6dGromskale|r
+{circle} |cffa330c9Smiledh|r  |cffc41e3aBixesdkh|r |cff0070ddFlashibashi|r |cffff7c0aSîrih|r |cff8788eeShadowdeathx|r
+{moon} |cfff48cbaNelthorias|r |cffff7c0aWurzelfurzel|r |cff3fc7ebHôttixx|r |cffff7c0aZadskiel|r |cff8788eeKîarra|r
 {square} |cffc41e3aFernkauf|r |cffc69b6dBrakai|r |cffaad372Diânthâ|r |cffc69b6dRagejessi|r |cff33937fDrarra|r
 {skull} |cffffffffYilvîna|r |cffffffffShadownnay|r |cff8788eeSeraakwl|r |cffa330c9Rakizz|r |cfffff468Kraganrg|r
 liquidEnd2
