@@ -14,7 +14,7 @@ Mitnehmen wer kann: [Int1 Eng Boots](https://www.wowhead.com/item=172912/momentu
 | 2  | Drarra, Ragejessi| #1 Brakai Shout #2 Grippy Hands #3 Shout | Mass Dispel (Shadow)| ? |
 | 3  | Kragan, Smiledh   | #1 Brakai Shout #2 Chaos Nova #3 Shout | Mass Dispel (Shadow)| RoP |
 | 4  | Bixesdkh         | Mass Dispel (Yilvina) | Bix | ? |
-| 5  | Rakizz, Kiarra     | Mass Dispel (Yilvina) | Seraak Stun | Seraak Howl |
+| 5  | Rakizz, Gromskale     | Mass Dispel (Yilvina) | Seraak Stun | Seraak Howl |
 | 6  | Flashi, Sirih    | ? | Roar (Sirih) | Roar (Sirih) |
 | 7  | Zadskiel         | ? | Roar (Zadskiel) | Roar (Zadskiel) |
 | 8  | Yilvina           | Mass Dispel (Yilvina) | Ice Nova | Purge Spam |
@@ -25,7 +25,7 @@ Mitnehmen wer kann: [Int1 Eng Boots](https://www.wowhead.com/item=172912/momentu
 
 ## Int1
 
-Red: Fernkauf, Flashi, Ragejessi, Kiarra, Smiledh, Zadskiel, Shadowdeathx, Sirih, Nelthorias
+Red: Fernkauf, Flashi, Ragejessi, Gromskale, Smiledh, Zadskiel, Shadowdeathx, Sirih, Nelthorias
 
 Blue: Brakai, Wurzelfurzel, Yilvina, Drarra, Shadownnay, Bixes, Diantha, Hotti, Rakizz, Seraakwl, Kraganrg
 
@@ -92,7 +92,7 @@ endLine
 | 14 | Flashi |
 | 15 | Hotti |
 | 16 | Nelthorias |
-| 17 | Kiarra |
+| 17 | Gromskale |
 | 18 | Zadskiel |
 | 19 | Wurzel |
 | 20 | Ragejessi |
